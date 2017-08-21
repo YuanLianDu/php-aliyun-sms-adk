@@ -1,5 +1,5 @@
 {
-    "name": "yuan/php-aliyun-sms-sdk",
+    "name": "yuanliandu/php-aliyun-sms-sdk",
     "description": "aliyun official sms sdk",
     "type": "library",
     "license": "MIT",
